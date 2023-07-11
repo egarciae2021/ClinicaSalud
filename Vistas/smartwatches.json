@@ -1,0 +1,253 @@
+[
+    {
+      "id_dispositivo": 1,
+      "nombre_modelo": "Smartwatch X1",
+      "duracion_bateria": {
+        "horas": 24,
+        "minutos": 30
+      },
+      "anio_lanzamiento": 2022,
+      "pais_comercializacion": "Estados Unidos"
+    },
+    {
+      "id_dispositivo": 2,
+      "nombre_modelo": "Smartwatch Y2",
+      "duracion_bateria": {
+        "horas": 48,
+        "minutos": 15
+      },
+      "anio_lanzamiento": 2023,
+      "pais_comercializacion": "Canadá"
+    },
+    {
+      "id_dispositivo": 3,
+      "nombre_modelo": "Smartwatch Z3",
+      "duracion_bateria": {
+        "horas": 36,
+        "minutos": 45
+      },
+      "anio_lanzamiento": 2021,
+      "pais_comercializacion": "México"
+    },
+    {
+      "id_dispositivo": 4,
+      "nombre_modelo": "Smartwatch A4",
+      "duracion_bateria": {
+        "horas": 40,
+        "minutos": 55
+      },
+      "anio_lanzamiento": 2020,
+      "pais_comercializacion": "España"
+    },
+    {
+      "id_dispositivo": 5,
+      "nombre_modelo": "Smartwatch B5",
+      "duracion_bateria": {
+        "horas": 30,
+        "minutos": 20
+      },
+      "anio_lanzamiento": 2022,
+      "pais_comercializacion": "Francia"
+    },
+    {
+      "id_dispositivo": 6,
+      "nombre_modelo": "Smartwatch C6",
+      "duracion_bateria": {
+        "horas": 28,
+        "minutos": 10
+      },
+      "anio_lanzamiento": 2021,
+      "pais_comercializacion": "Alemania"
+    },
+    {
+      "id_dispositivo": 7,
+      "nombre_modelo": "Smartwatch D7",
+      "duracion_bateria": {
+        "horas": 32,
+        "minutos": 40
+      },
+      "anio_lanzamiento": 2023,
+      "pais_comercializacion": "Italia"
+    },
+    {
+      "id_dispositivo": 8,
+      "nombre_modelo": "Smartwatch E8",
+      "duracion_bateria": {
+        "horas": 45,
+        "minutos": 50
+      },
+      "anio_lanzamiento": 2020,
+      "pais_comercializacion": "Reino Unido"
+    },
+    {
+      "id_dispositivo": 9,
+      "nombre_modelo": "Smartwatch F9",
+      "duracion_bateria": {
+        "horas": 20,
+        "minutos": 15
+      },
+      "anio_lanzamiento": 2022,
+      "pais_comercializacion": "Australia"
+    },
+    {
+      "id_dispositivo": 10,
+      "nombre_modelo": "Smartwatch G10",
+      "duracion_bateria": {
+        "horas": 22,
+        "minutos": 30
+      },
+      "anio_lanzamiento": 2021,
+      "pais_comercializacion": "Brasil"
+    },
+    {
+      "id_dispositivo": 11,
+      "nombre_modelo": "Smartwatch H11",
+      "duracion_bateria": {
+        "horas": 38,
+        "minutos": 50
+      },
+      "anio_lanzamiento": 2023,
+      "pais_comercializacion": "India"
+    },
+    {
+      "id_dispositivo": 12,
+      "nombre_modelo": "Smartwatch I12",
+      "duracion_bateria": {
+        "horas": 26,
+        "minutos": 35
+      },
+      "anio_lanzamiento": 2020,
+      "pais_comercializacion": "China"
+    },
+    {
+      "id_dispositivo": 13,
+      "nombre_modelo": "Smartwatch J13",
+      "duracion_bateria": {
+        "horas": 34,
+        "minutos": 40
+      },
+      "anio_lanzamiento": 2022,
+      "pais_comercializacion": "Rusia"
+    },
+    {
+      "id_dispositivo": 14,
+      "nombre_modelo": "Smartwatch K14",
+      "duracion_bateria": {
+        "horas": 42,
+        "minutos": 25
+      },
+      "anio_lanzamiento": 2021,
+      "pais_comercializacion": "Japón"
+    },
+    {
+      "id_dispositivo": 15,
+      "nombre_modelo": "Smartwatch L15",
+      "duracion_bateria": {
+        "horas": 18,
+        "minutos": 55
+      },
+      "anio_lanzamiento": 2023,
+      "pais_comercializacion": "Corea del Sur"
+    },
+    {
+      "id_dispositivo": 16,
+      "nombre_modelo": "Smartwatch M16",
+      "duracion_bateria": {
+        "horas": 29,
+        "minutos": 30
+      },
+      "anio_lanzamiento": 2020,
+      "pais_comercializacion": "Argentina"
+    },
+    {
+      "id_dispositivo": 17,
+      "nombre_modelo": "Smartwatch N17",
+      "duracion_bateria": {
+        "horas": 37,
+        "minutos": 45
+      },
+      "anio_lanzamiento": 2022,
+      "pais_comercializacion": "Colombia"
+    },
+    {
+      "id_dispositivo": 18,
+      "nombre_modelo": "Smartwatch O18",
+      "duracion_bateria": {
+        "horas": 33,
+        "minutos": 20
+      },
+      "anio_lanzamiento": 2021,
+      "pais_comercializacion": "Perú"
+    },
+    {
+      "id_dispositivo": 19,
+      "nombre_modelo": "Smartwatch P19",
+      "duracion_bateria": {
+        "horas": 41,
+        "minutos": 10
+      },
+      "anio_lanzamiento": 2023,
+      "pais_comercializacion": "Chile"
+    },
+    {
+      "id_dispositivo": 20,
+      "nombre_modelo": "Smartwatch Q20",
+      "duracion_bateria": {
+        "horas": 23,
+        "minutos": 40
+      },
+      "anio_lanzamiento": 2020,
+      "pais_comercializacion": "Ecuador"
+    },
+    {
+      "id_dispositivo": 21,
+      "nombre_modelo": "Smartwatch R21",
+      "duracion_bateria": {
+        "horas": 31,
+        "minutos": 50
+      },
+      "anio_lanzamiento": 2022,
+      "pais_comercializacion": "Uruguay"
+    },
+    {
+      "id_dispositivo": 22,
+      "nombre_modelo": "Smartwatch S22",
+      "duracion_bateria": {
+        "horas": 19,
+        "minutos": 15
+      },
+      "anio_lanzamiento": 2021,
+      "pais_comercializacion": "Paraguay"
+    },
+    {
+      "id_dispositivo": 23,
+      "nombre_modelo": "Smartwatch T23",
+      "duracion_bateria": {
+        "horas": 21,
+        "minutos": 30
+      },
+      "anio_lanzamiento": 2023,
+      "pais_comercializacion": "Venezuela"
+    },
+    {
+      "id_dispositivo": 24,
+      "nombre_modelo": "Smartwatch U24",
+      "duracion_bateria": {
+        "horas": 39,
+        "minutos": 25
+      },
+      "anio_lanzamiento": 2020,
+      "pais_comercializacion": "Bolivia"
+    },
+    {
+      "id_dispositivo": 25,
+      "nombre_modelo": "Smartwatch V25",
+      "duracion_bateria": {
+        "horas": 27,
+        "minutos": 55
+      },
+      "anio_lanzamiento": 2022,
+      "pais_comercializacion": "Costa Rica"
+    }
+  ]
+  
