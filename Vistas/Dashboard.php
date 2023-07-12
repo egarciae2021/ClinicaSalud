@@ -45,7 +45,7 @@
 
         function graficolinear() {
 
-            fetch('http://38.25.76.156:2000/rest/src/caminata.php')
+            fetch('https://38.25.76.156:2000/rest/src/caminata.php')
                 .then(response => response.json())
                 .then(data => {
 
@@ -77,7 +77,7 @@
 
         function graficobarra() {
 
-            fetch('http://38.25.76.156:2000/rest/src/CalidadSueño.php')
+            fetch('https://38.25.76.156:2000/rest/src/CalidadSueño.php')
                 .then(response => response.json())
                 .then(data => {
 
@@ -109,7 +109,7 @@
 
         function graficomscolumn() {
 
-            fetch('http://38.25.76.156:2000/rest/src/calorias.php')
+            fetch('https://38.25.76.156:2000/rest/src/calorias.php')
                 .then(response => response.json())
                 .then(data => {
 
@@ -147,7 +147,7 @@
 
 
 
-            fetch('http://38.25.76.156:2000/rest/src/calorias.php')
+            fetch('https://38.25.76.156:2000/rest/src/calorias.php')
                 .then(response => response.json())
                 .then(data => {
 

@@ -159,7 +159,9 @@
             </section>
 
         </div>
-        <div style="display:inline-block; background:red "></div>
+        <div style="display: inline-block; width: 500px; height: 500px; background-image: url('https://mister-mango.omni.la/ProductCatalog/Workspace.C2X4BOT6UW4AA/ProductCatalog.C37ZT6MBSPXQC/1500x1500/C372SEGFPLSTK.jpg'); background-size: cover; background-position: center;">
+</div>
+
     </div>
 
 

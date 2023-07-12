@@ -13,7 +13,7 @@
 <script>
 	$(document).ready(function() {
 
-        fetch('http://38.25.76.156:2000/rest/src/citas.php')
+        fetch('https://38.25.76.156:2000/rest/src/citas.php')
                 .then(response => response.json())
                 .then(data => {
 
